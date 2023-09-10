@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Vera",
+        "score": "70"
+
+    },
+    {
+          "id": "2",
+         "name": "Melvin",
+         "score": "65"
+    },
+    {
+         "id": "3",
+         "name": "Pepe",
+         "score": "60"
+    },
+    {
+         "id": "4",
+         "name": "Godwin",
+         "score": "75"
+    },
+    {
+        "id": "5", 
+        "name": "Jude",
+        "score": "69"
+    }
+
+]

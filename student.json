@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Kome",
+        "status": "married"
+    },
+    {
+        "id": "2",
+        "name": "Babatunde",
+        "status": "single"
+    },
+    {
+        "id": "3",
+        "name": "Debby",
+        "status": "married"
+    },
+    {
+        "id": "4",
+        "name": "Jude",
+        "status": "in love"
+    },
+    {
+        "id": "5",
+        "name": "Vera",
+        "status": "about to married"
+    }
+]

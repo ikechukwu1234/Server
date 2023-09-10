@@ -1,0 +1,6 @@
+declare module "*http"
+declare module "*data.json"
+declare module "*food.json"
+declare module "*student.json"
+declare module "*governor.json"
+declare module "*hotel.json"

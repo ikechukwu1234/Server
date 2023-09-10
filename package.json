@@ -1,0 +1,12 @@
+{
+  "name": "kode10x-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only index2.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
